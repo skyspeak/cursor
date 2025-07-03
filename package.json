@@ -1,5 +1,6 @@
 {
   "name": "weather-app",
+  "homepage": "https://skyspeak.github.io/cursor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
